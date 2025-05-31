@@ -1,0 +1,64 @@
+{
+  "zodiacSigns": [
+    {
+      "name": "Aries",
+      "dateRange": "March 21 - April 19",
+      "description": "Aries is the first sign of the zodiac, symbolized by the ram. They are known for their leadership qualities and adventurous spirit."
+    },
+    {
+      "name": "Taurus",
+      "dateRange": "April 20 - May 20",
+      "description": "Taurus is represented by the bull. They are known for their reliability, patience, and love for beauty and comfort."
+    },
+    {
+      "name": "Gemini",
+      "dateRange": "May 21 - June 20",
+      "description": "Gemini is symbolized by the twins. They are known for their adaptability, communication skills, and curiosity."
+    },
+    {
+      "name": "Cancer",
+      "dateRange": "June 21 - July 22",
+      "description": "Cancer is represented by the crab. They are known for their emotional depth, intuition, and nurturing nature."
+    },
+    {
+      "name": "Leo",
+      "dateRange": "July 23 - August 22",
+      "description": "Leo is symbolized by the lion. They are known for their confidence, creativity, and charisma."
+    },
+    {
+      "name": "Virgo",
+      "dateRange": "August 23 - September 22",
+      "description": "Virgo is represented by the maiden. They are known for their analytical skills, attention to detail, and practicality."
+    },
+    {
+      "name": "Libra",
+      "dateRange": "September 23 - October 22",
+      "description": "Libra is symbolized by the scales. They are known for their sense of balance, harmony, and strong social skills."
+    },
+    {
+      "name": "Scorpio",
+      "dateRange": "October 23 - November 21",
+      "description": "Scorpio is represented by the scorpion. They are known for their intensity, passion, and resourcefulness."
+    },
+    {
+      "name": "Sagittarius",
+      "dateRange": "November 22 - December 21",
+      "description": "Sagittarius is symbolized by the archer. They are known for their adventurous spirit, optimism, and love for freedom."
+    },
+    {
+      "name": "Capricorn",
+      "dateRange": "December 22 - January 19",
+      "description": "Capricorn is represented by the goat. They are known for their discipline, ambition, and practicality."
+    },
+    {
+      "name": "Aquarius",
+      "dateRange": "January 20 - February 18",
+      "description": "Aquarius is symbolized by the water bearer. They are known for their innovation, independence, and humanitarianism."
+    },
+    {
+      "name": "Pisces",
+      "dateRange": "February 19 - March 20",
+      "description": "Pisces is represented by the fish. They are known for their empathy, intuition, and artistic nature."
+    }
+  ]
+}

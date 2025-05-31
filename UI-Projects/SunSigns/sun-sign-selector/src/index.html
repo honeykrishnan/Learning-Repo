@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sun Sign Selector</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500&display=swap">
+</head>
+<body>
+    <div class="container">
+        <h1>Discover Your Sun Sign</h1>
+        <div class="select-wrapper">
+            <select id="sun-sign-select">
+                <option value="">Choose your celestial path...</option>
+                <!-- Options will be populated by JavaScript -->
+            </select>
+        </div>
+        <div id="loading-spinner" class="loading-spinner">
+            <div class="spinner"></div>
+        </div>
+        <div id="sign-description" class="description-card"></div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
